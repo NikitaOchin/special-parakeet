@@ -1,0 +1,216 @@
+[0m15:00:48.583674 [info ] [MainThread]: Running with dbt=1.7.4
+[0m15:00:48.584459 [info ] [MainThread]: dbt version: 1.7.4
+[0m15:00:48.584723 [info ] [MainThread]: python version: 3.10.12
+[0m15:00:48.584948 [info ] [MainThread]: python path: /usr/bin/python3
+[0m15:00:48.585159 [info ] [MainThread]: os info: Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+[0m15:00:48.585388 [info ] [MainThread]: Using profiles dir at /root/.dbt
+[0m15:00:48.585602 [info ] [MainThread]: Using profiles.yml file at /root/.dbt/profiles.yml
+[0m15:00:48.585805 [info ] [MainThread]: Using dbt_project.yml file at /home/jaffle_shop/dbt/dbt_project.yml
+[0m15:00:48.659481 [info ] [MainThread]: Configuration:
+[0m15:00:48.659921 [info ] [MainThread]:   profiles.yml file [[31mERROR not found[0m]
+[0m15:00:48.660184 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m15:00:48.660423 [info ] [MainThread]: Required dependencies:
+[0m15:00:48.662511 [info ] [MainThread]:  - git [[32mOK found[0m]
+[0m15:00:48.662738 [info ] [MainThread]: Connection test skipped since no profile was found
+[0m15:00:48.662963 [info ] [MainThread]: [31m1 check failed:[0m
+[0m15:00:48.663178 [info ] [MainThread]: dbt looked for a profiles.yml file in /root/.dbt/profiles.yml, but did
+[0m15:03:47.759458 [info ] [MainThread]: Running with dbt=1.7.4
+[0m15:03:47.760226 [info ] [MainThread]: dbt version: 1.7.4
+[0m15:03:47.760563 [info ] [MainThread]: python version: 3.10.12
+[0m15:03:47.760855 [info ] [MainThread]: python path: /usr/bin/python3
+[0m15:03:47.761132 [info ] [MainThread]: os info: Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+[0m15:03:47.761492 [info ] [MainThread]: Using profiles dir at /root/.dbt
+[0m15:03:47.761802 [info ] [MainThread]: Using profiles.yml file at /root/.dbt/profiles.yml
+[0m15:03:47.762073 [info ] [MainThread]: Using dbt_project.yml file at /home/jaffle_shop/dbt/dbt_project.yml
+[0m15:03:47.835952 [info ] [MainThread]: Configuration:
+[0m15:03:47.836433 [info ] [MainThread]:   profiles.yml file [[31mERROR not found[0m]
+[0m15:03:47.836872 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m15:03:47.837147 [info ] [MainThread]: Required dependencies:
+[0m15:03:47.839149 [info ] [MainThread]:  - git [[32mOK found[0m]
+[0m15:03:47.839376 [info ] [MainThread]: Connection test skipped since no profile was found
+[0m15:03:47.839607 [info ] [MainThread]: [31m1 check failed:[0m
+[0m15:03:47.839827 [info ] [MainThread]: dbt looked for a profiles.yml file in /root/.dbt/profiles.yml, but did
+[0m15:17:14.477973 [info ] [MainThread]: Running with dbt=1.7.4
+[0m15:17:14.479062 [info ] [MainThread]: dbt version: 1.7.4
+[0m15:17:14.479330 [info ] [MainThread]: python version: 3.10.12
+[0m15:17:14.479559 [info ] [MainThread]: python path: /usr/bin/python3
+[0m15:17:14.479772 [info ] [MainThread]: os info: Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+[0m15:17:14.480029 [info ] [MainThread]: Using profiles dir at /root/.dbt
+[0m15:17:14.480252 [info ] [MainThread]: Using profiles.yml file at /root/.dbt/profiles.yml
+[0m15:17:14.480450 [info ] [MainThread]: Using dbt_project.yml file at /home/jaffle_shop/dbt/dbt_project.yml
+[0m15:17:14.549346 [info ] [MainThread]: Configuration:
+[0m15:17:14.549857 [info ] [MainThread]:   profiles.yml file [[31mERROR not found[0m]
+[0m15:17:14.550158 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m15:17:14.550377 [info ] [MainThread]: Required dependencies:
+[0m15:17:14.553307 [info ] [MainThread]:  - git [[32mOK found[0m]
+[0m15:17:14.553567 [info ] [MainThread]: Connection test skipped since no profile was found
+[0m15:17:14.553806 [info ] [MainThread]: [31m1 check failed:[0m
+[0m15:17:14.554081 [info ] [MainThread]: dbt looked for a profiles.yml file in /root/.dbt/profiles.yml, but did
+[0m15:19:08.037504 [info ] [MainThread]: Running with dbt=1.7.4
+[0m15:19:08.038527 [info ] [MainThread]: dbt version: 1.7.4
+[0m15:19:08.038864 [info ] [MainThread]: python version: 3.10.12
+[0m15:19:08.039153 [info ] [MainThread]: python path: /usr/bin/python3
+[0m15:19:08.039588 [info ] [MainThread]: os info: Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+[0m15:19:08.041941 [info ] [MainThread]: Using profiles dir at /root/.dbt
+[0m15:19:08.042305 [info ] [MainThread]: Using profiles.yml file at /root/.dbt/profiles.yml
+[0m15:19:08.042547 [info ] [MainThread]: Using dbt_project.yml file at /home/jaffle_shop/dbt/dbt_project.yml
+[0m15:19:08.109852 [info ] [MainThread]: Configuration:
+[0m15:19:08.110376 [info ] [MainThread]:   profiles.yml file [[31mERROR invalid[0m]
+[0m15:19:08.110644 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m15:19:08.110876 [info ] [MainThread]: Required dependencies:
+[0m15:19:08.113658 [info ] [MainThread]:  - git [[32mOK found[0m]
+[0m15:19:08.114219 [info ] [MainThread]: Connection test skipped since no profile was found
+[0m15:19:08.114541 [info ] [MainThread]: [31m1 check failed:[0m
+[0m15:19:08.114775 [info ] [MainThread]: Profile loading failed for the following reason:
+[0m15:20:27.164903 [info ] [MainThread]: Running with dbt=1.7.4
+[0m15:20:27.165727 [info ] [MainThread]: dbt version: 1.7.4
+[0m15:20:27.166058 [info ] [MainThread]: python version: 3.10.12
+[0m15:20:27.166699 [info ] [MainThread]: python path: /usr/bin/python3
+[0m15:20:27.166936 [info ] [MainThread]: os info: Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+[0m15:20:27.169116 [info ] [MainThread]: Using profiles dir at /root/.dbt
+[0m15:20:27.169410 [info ] [MainThread]: Using profiles.yml file at /root/.dbt/profiles.yml
+[0m15:20:27.169709 [info ] [MainThread]: Using dbt_project.yml file at /home/jaffle_shop/dbt/dbt_project.yml
+[0m15:20:27.233165 [info ] [MainThread]: Configuration:
+[0m15:20:27.233678 [info ] [MainThread]:   profiles.yml file [[31mERROR invalid[0m]
+[0m15:20:27.233990 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m15:20:27.234219 [info ] [MainThread]: Required dependencies:
+[0m15:20:27.236427 [info ] [MainThread]:  - git [[32mOK found[0m]
+[0m15:20:27.236661 [info ] [MainThread]: Connection test skipped since no profile was found
+[0m15:20:27.236905 [info ] [MainThread]: [31m1 check failed:[0m
+[0m15:20:27.237146 [info ] [MainThread]: Profile loading failed for the following reason:
+[0m15:21:43.867390 [info ] [MainThread]: Running with dbt=1.7.4
+[0m15:21:43.868219 [info ] [MainThread]: dbt version: 1.7.4
+[0m15:21:43.868476 [info ] [MainThread]: python version: 3.10.12
+[0m15:21:43.868708 [info ] [MainThread]: python path: /usr/bin/python3
+[0m15:21:43.868933 [info ] [MainThread]: os info: Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+[0m15:21:43.939806 [info ] [MainThread]: Using profiles dir at /root/.dbt
+[0m15:21:43.940315 [info ] [MainThread]: Using profiles.yml file at /root/.dbt/profiles.yml
+[0m15:21:43.940604 [info ] [MainThread]: Using dbt_project.yml file at /home/jaffle_shop/dbt/dbt_project.yml
+[0m15:21:43.941025 [info ] [MainThread]: adapter type: postgres
+[0m15:21:43.941283 [info ] [MainThread]: adapter version: 1.7.4
+[0m15:21:44.008749 [info ] [MainThread]: Configuration:
+[0m15:21:44.009253 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m15:21:44.009595 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m15:21:44.009871 [info ] [MainThread]: Required dependencies:
+[0m15:21:44.012416 [info ] [MainThread]:  - git [[32mOK found[0m]
+[0m15:21:44.012727 [info ] [MainThread]: Connection:
+[0m15:21:44.013016 [info ] [MainThread]:   host: localhost
+[0m15:21:44.013258 [info ] [MainThread]:   port: 5432
+[0m15:21:44.013493 [info ] [MainThread]:   user: postgres
+[0m15:21:44.013720 [info ] [MainThread]:   database: postgres
+[0m15:21:44.013991 [info ] [MainThread]:   schema: public
+[0m15:21:44.014203 [info ] [MainThread]:   connect_timeout: 10
+[0m15:21:44.014426 [info ] [MainThread]:   role: None
+[0m15:21:44.014640 [info ] [MainThread]:   search_path: None
+[0m15:21:44.014935 [info ] [MainThread]:   keepalives_idle: 0
+[0m15:21:44.015229 [info ] [MainThread]:   sslmode: None
+[0m15:21:44.015471 [info ] [MainThread]:   sslcert: None
+[0m15:21:44.015686 [info ] [MainThread]:   sslkey: None
+[0m15:21:44.015894 [info ] [MainThread]:   sslrootcert: None
+[0m15:21:44.016120 [info ] [MainThread]:   application_name: dbt
+[0m15:21:44.016351 [info ] [MainThread]:   retries: 1
+[0m15:21:44.016670 [info ] [MainThread]: Registered adapter: postgres=1.7.4
+[0m15:21:44.063148 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+[0m15:21:44.063508 [info ] [MainThread]: [32mAll checks passed![0m
+[0m15:22:04.683255 [info ] [MainThread]: Running with dbt=1.7.4
+[0m15:22:04.895486 [info ] [MainThread]: Registered adapter: postgres=1.7.4
+[0m15:22:04.902334 [info ] [MainThread]: Unable to do partial parsing because saved manifest not found. Starting full parse.
+[0m15:22:05.799442 [info ] [MainThread]: Found 5 models, 3 seeds, 20 tests, 0 sources, 0 exposures, 0 metrics, 401 macros, 0 groups, 0 semantic models
+[0m15:22:05.801236 [info ] [MainThread]: 
+[0m15:22:05.900154 [info ] [MainThread]: Concurrency: 1 threads (target='dev')
+[0m15:22:05.901441 [info ] [MainThread]: 
+[0m15:22:05.907091 [info ] [Thread-1 (]: 1 of 3 START seed file public.raw_customers .................................... [RUN]
+[0m15:22:06.079148 [info ] [Thread-1 (]: 1 of 3 OK loaded seed file public.raw_customers ................................ [[32mINSERT 100[0m in 0.17s]
+[0m15:22:06.080679 [info ] [Thread-1 (]: 2 of 3 START seed file public.raw_orders ....................................... [RUN]
+[0m15:22:06.239499 [info ] [Thread-1 (]: 2 of 3 OK loaded seed file public.raw_orders ................................... [[32mINSERT 99[0m in 0.16s]
+[0m15:22:06.240620 [info ] [Thread-1 (]: 3 of 3 START seed file public.raw_payments ..................................... [RUN]
+[0m15:22:06.346318 [info ] [Thread-1 (]: 3 of 3 OK loaded seed file public.raw_payments ................................. [[32mINSERT 113[0m in 0.10s]
+[0m15:22:06.360189 [info ] [MainThread]: 
+[0m15:22:06.360525 [info ] [MainThread]: Finished running 3 seeds in 0 hours 0 minutes and 0.56 seconds (0.56s).
+[0m15:22:06.367700 [info ] [MainThread]: 
+[0m15:22:06.368156 [info ] [MainThread]: [32mCompleted successfully[0m
+[0m15:22:06.368432 [info ] [MainThread]: 
+[0m15:22:06.368697 [info ] [MainThread]: Done. PASS=3 WARN=0 ERROR=0 SKIP=0 TOTAL=3
+[0m15:22:11.490517 [info ] [MainThread]: Running with dbt=1.7.4
+[0m15:22:11.713637 [info ] [MainThread]: Registered adapter: postgres=1.7.4
+[0m15:22:11.748425 [info ] [MainThread]: Found 5 models, 3 seeds, 20 tests, 0 sources, 0 exposures, 0 metrics, 401 macros, 0 groups, 0 semantic models
+[0m15:22:11.750071 [info ] [MainThread]: 
+[0m15:22:11.816404 [info ] [MainThread]: Concurrency: 1 threads (target='dev')
+[0m15:22:11.816752 [info ] [MainThread]: 
+[0m15:22:11.819606 [info ] [Thread-1 (]: 1 of 5 START sql view model public.stg_customers ............................... [RUN]
+[0m15:22:11.907810 [info ] [Thread-1 (]: 1 of 5 OK created sql view model public.stg_customers .......................... [[32mCREATE VIEW[0m in 0.09s]
+[0m15:22:11.909003 [info ] [Thread-1 (]: 2 of 5 START sql view model public.stg_orders .................................. [RUN]
+[0m15:22:11.948223 [info ] [Thread-1 (]: 2 of 5 OK created sql view model public.stg_orders ............................. [[32mCREATE VIEW[0m in 0.04s]
+[0m15:22:11.949372 [info ] [Thread-1 (]: 3 of 5 START sql view model public.stg_payments ................................ [RUN]
+[0m15:22:12.032657 [info ] [Thread-1 (]: 3 of 5 OK created sql view model public.stg_payments ........................... [[32mCREATE VIEW[0m in 0.08s]
+[0m15:22:12.035034 [info ] [Thread-1 (]: 4 of 5 START sql table model public.customers .................................. [RUN]
+[0m15:22:12.112304 [info ] [Thread-1 (]: 4 of 5 OK created sql table model public.customers ............................. [[32mSELECT 100[0m in 0.08s]
+[0m15:22:12.113552 [info ] [Thread-1 (]: 5 of 5 START sql table model public.orders ..................................... [RUN]
+[0m15:22:12.160101 [info ] [Thread-1 (]: 5 of 5 OK created sql table model public.orders ................................ [[32mSELECT 99[0m in 0.05s]
+[0m15:22:12.176715 [info ] [MainThread]: 
+[0m15:22:12.177005 [info ] [MainThread]: Finished running 3 view models, 2 table models in 0 hours 0 minutes and 0.43 seconds (0.43s).
+[0m15:22:12.186536 [info ] [MainThread]: 
+[0m15:22:12.187286 [info ] [MainThread]: [32mCompleted successfully[0m
+[0m15:22:12.188219 [info ] [MainThread]: 
+[0m15:22:12.188782 [info ] [MainThread]: Done. PASS=5 WARN=0 ERROR=0 SKIP=0 TOTAL=5
+[0m15:22:19.475683 [info ] [MainThread]: Running with dbt=1.7.4
+[0m15:22:19.680413 [info ] [MainThread]: Registered adapter: postgres=1.7.4
+[0m15:22:19.716342 [info ] [MainThread]: Found 5 models, 3 seeds, 20 tests, 0 sources, 0 exposures, 0 metrics, 401 macros, 0 groups, 0 semantic models
+[0m15:22:19.718895 [info ] [MainThread]: 
+[0m15:22:19.775446 [info ] [MainThread]: Concurrency: 1 threads (target='dev')
+[0m15:22:19.775755 [info ] [MainThread]: 
+[0m15:22:19.778830 [info ] [Thread-1 (]: 1 of 20 START test accepted_values_orders_status__placed__shipped__completed__return_pending__returned  [RUN]
+[0m15:22:19.827618 [info ] [Thread-1 (]: 1 of 20 PASS accepted_values_orders_status__placed__shipped__completed__return_pending__returned  [[32mPASS[0m in 0.05s]
+[0m15:22:19.828802 [info ] [Thread-1 (]: 2 of 20 START test accepted_values_stg_orders_status__placed__shipped__completed__return_pending__returned  [RUN]
+[0m15:22:19.855125 [info ] [Thread-1 (]: 2 of 20 PASS accepted_values_stg_orders_status__placed__shipped__completed__return_pending__returned  [[32mPASS[0m in 0.03s]
+[0m15:22:19.856375 [info ] [Thread-1 (]: 3 of 20 START test accepted_values_stg_payments_payment_method__credit_card__coupon__bank_transfer__gift_card  [RUN]
+[0m15:22:19.882455 [info ] [Thread-1 (]: 3 of 20 PASS accepted_values_stg_payments_payment_method__credit_card__coupon__bank_transfer__gift_card  [[32mPASS[0m in 0.03s]
+[0m15:22:19.884101 [info ] [Thread-1 (]: 4 of 20 START test not_null_customers_customer_id .............................. [RUN]
+[0m15:22:19.911254 [info ] [Thread-1 (]: 4 of 20 PASS not_null_customers_customer_id .................................... [[32mPASS[0m in 0.03s]
+[0m15:22:19.912457 [info ] [Thread-1 (]: 5 of 20 START test not_null_orders_amount ...................................... [RUN]
+[0m15:22:19.936819 [info ] [Thread-1 (]: 5 of 20 PASS not_null_orders_amount ............................................ [[32mPASS[0m in 0.02s]
+[0m15:22:19.940435 [info ] [Thread-1 (]: 6 of 20 START test not_null_orders_bank_transfer_amount ........................ [RUN]
+[0m15:22:20.014418 [info ] [Thread-1 (]: 6 of 20 PASS not_null_orders_bank_transfer_amount .............................. [[32mPASS[0m in 0.07s]
+[0m15:22:20.015746 [info ] [Thread-1 (]: 7 of 20 START test not_null_orders_coupon_amount ............................... [RUN]
+[0m15:22:20.042361 [info ] [Thread-1 (]: 7 of 20 PASS not_null_orders_coupon_amount ..................................... [[32mPASS[0m in 0.03s]
+[0m15:22:20.044238 [info ] [Thread-1 (]: 8 of 20 START test not_null_orders_credit_card_amount .......................... [RUN]
+[0m15:22:20.068423 [info ] [Thread-1 (]: 8 of 20 PASS not_null_orders_credit_card_amount ................................ [[32mPASS[0m in 0.02s]
+[0m15:22:20.069683 [info ] [Thread-1 (]: 9 of 20 START test not_null_orders_customer_id ................................. [RUN]
+[0m15:22:20.096686 [info ] [Thread-1 (]: 9 of 20 PASS not_null_orders_customer_id ....................................... [[32mPASS[0m in 0.03s]
+[0m15:22:20.098571 [info ] [Thread-1 (]: 10 of 20 START test not_null_orders_gift_card_amount ........................... [RUN]
+[0m15:22:20.124564 [info ] [Thread-1 (]: 10 of 20 PASS not_null_orders_gift_card_amount ................................. [[32mPASS[0m in 0.03s]
+[0m15:22:20.126463 [info ] [Thread-1 (]: 11 of 20 START test not_null_orders_order_id ................................... [RUN]
+[0m15:22:20.149702 [info ] [Thread-1 (]: 11 of 20 PASS not_null_orders_order_id ......................................... [[32mPASS[0m in 0.02s]
+[0m15:22:20.150926 [info ] [Thread-1 (]: 12 of 20 START test not_null_stg_customers_customer_id ......................... [RUN]
+[0m15:22:20.175612 [info ] [Thread-1 (]: 12 of 20 PASS not_null_stg_customers_customer_id ............................... [[32mPASS[0m in 0.02s]
+[0m15:22:20.176694 [info ] [Thread-1 (]: 13 of 20 START test not_null_stg_orders_order_id ............................... [RUN]
+[0m15:22:20.198806 [info ] [Thread-1 (]: 13 of 20 PASS not_null_stg_orders_order_id ..................................... [[32mPASS[0m in 0.02s]
+[0m15:22:20.199904 [info ] [Thread-1 (]: 14 of 20 START test not_null_stg_payments_payment_id ........................... [RUN]
+[0m15:22:20.226269 [info ] [Thread-1 (]: 14 of 20 PASS not_null_stg_payments_payment_id ................................. [[32mPASS[0m in 0.03s]
+[0m15:22:20.227398 [info ] [Thread-1 (]: 15 of 20 START test relationships_orders_customer_id__customer_id__ref_customers_  [RUN]
+[0m15:22:20.251447 [info ] [Thread-1 (]: 15 of 20 PASS relationships_orders_customer_id__customer_id__ref_customers_ .... [[32mPASS[0m in 0.02s]
+[0m15:22:20.253361 [info ] [Thread-1 (]: 16 of 20 START test unique_customers_customer_id ............................... [RUN]
+[0m15:22:20.277855 [info ] [Thread-1 (]: 16 of 20 PASS unique_customers_customer_id ..................................... [[32mPASS[0m in 0.02s]
+[0m15:22:20.278941 [info ] [Thread-1 (]: 17 of 20 START test unique_orders_order_id ..................................... [RUN]
+[0m15:22:20.305836 [info ] [Thread-1 (]: 17 of 20 PASS unique_orders_order_id ........................................... [[32mPASS[0m in 0.03s]
+[0m15:22:20.307029 [info ] [Thread-1 (]: 18 of 20 START test unique_stg_customers_customer_id ........................... [RUN]
+[0m15:22:20.333363 [info ] [Thread-1 (]: 18 of 20 PASS unique_stg_customers_customer_id ................................. [[32mPASS[0m in 0.03s]
+[0m15:22:20.334712 [info ] [Thread-1 (]: 19 of 20 START test unique_stg_orders_order_id ................................. [RUN]
+[0m15:22:20.359301 [info ] [Thread-1 (]: 19 of 20 PASS unique_stg_orders_order_id ....................................... [[32mPASS[0m in 0.02s]
+[0m15:22:20.360584 [info ] [Thread-1 (]: 20 of 20 START test unique_stg_payments_payment_id ............................. [RUN]
+[0m15:22:20.383807 [info ] [Thread-1 (]: 20 of 20 PASS unique_stg_payments_payment_id ................................... [[32mPASS[0m in 0.02s]
+[0m15:22:20.396936 [info ] [MainThread]: 
+[0m15:22:20.397221 [info ] [MainThread]: Finished running 20 tests in 0 hours 0 minutes and 0.68 seconds (0.68s).
+[0m15:22:20.408202 [info ] [MainThread]: 
+[0m15:22:20.408688 [info ] [MainThread]: [32mCompleted successfully[0m
+[0m15:22:20.408970 [info ] [MainThread]: 
+[0m15:22:20.409224 [info ] [MainThread]: Done. PASS=20 WARN=0 ERROR=0 SKIP=0 TOTAL=20
+[0m15:22:26.482187 [info ] [MainThread]: Running with dbt=1.7.4
+[0m15:22:26.671497 [info ] [MainThread]: Registered adapter: postgres=1.7.4
+[0m15:22:26.701582 [info ] [MainThread]: Found 5 models, 3 seeds, 20 tests, 0 sources, 0 exposures, 0 metrics, 401 macros, 0 groups, 0 semantic models
+[0m15:22:26.704530 [info ] [MainThread]: 
+[0m15:22:26.751548 [info ] [MainThread]: Concurrency: 1 threads (target='dev')
+[0m15:22:26.751841 [info ] [MainThread]: 
+[0m15:22:26.999108 [info ] [MainThread]: Building catalog
+[0m15:22:27.037172 [info ] [MainThread]: Catalog written to /home/jaffle_shop/dbt/target/catalog.json
+[0m15:22:35.813058 [info ] [MainThread]: Running with dbt=1.7.4
